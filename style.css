@@ -1,6 +1,8 @@
 body{
-    color: white;
-    background-color: violet;
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    font-family: 'Rouge Script', cursive;
+    font-size: 20px;
 }
 .heading{
     width: 80%;
